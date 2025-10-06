@@ -91,13 +91,13 @@ Creează o pagină web care conține:
  ```bash
 git add .
 git commit -m "Laborator 1 – HTML & CSS final"
-    ```
+ ```
 
 6. Încarcă codul pe GitHub:
 
  ```bash
 git push
-    ```
+ ```
 
 ---
 
